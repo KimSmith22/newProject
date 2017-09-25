@@ -1,0 +1,52 @@
+.navbar-default{
+  height: 70px;
+  background-color: cornflowerblue;
+}
+.navbar-default a{
+  color: pink !important;
+  margin-top: -1.00em;
+  margin-top: 1.00em;
+}
+.logo{
+  margin-top: -1.90em;
+}
+.photo{
+  width: 103em;
+  height: 22.000em;
+}
+.brand{
+  height: 100px;
+  background-color: cornflowerblue;
+}
+.bottom{
+  margin-top: 50px;
+}
+.indent{
+  margin-left: 70px;
+}
+.footer{
+  background-color: cornflowerblue;
+  height: 7.375em;
+  color: pink;
+}
+button{
+  background-color: cornflowerblue;
+  width: 250px;
+}
+button a{
+  color: pink !important;
+}
+.footer a{
+  display: block;
+  float: left;
+  padding: .375em;
+  margin-left: 22.000em;
+}
+.footer ul{
+  list-style: none;
+}
+.contact{
+  background-color: white;
+  box-shadow: 10px 10px 5px #888888;
+  text-align: left;
+}
