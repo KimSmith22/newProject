@@ -1,6 +1,10 @@
+body{
+  background-color: cornflowerblue;
+}
 .navbar-default{
   height: 70px;
   background-color: cornflowerblue;
+  border: none;
 }
 .navbar-default a{
   color: pink !important;
@@ -8,11 +12,13 @@
   margin-top: 1.00em;
 }
 .logo{
-  margin-top: -1.90em;
+  margin-top: -1.50em;
+}
+.row{
+  background-color: white;
 }
 .photo{
-  width: 103em;
-  height: 22.000em;
+  width: 100%;
 }
 .brand{
   height: 100px;
