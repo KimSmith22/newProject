@@ -20,6 +20,20 @@ body{
 .photo{
   width: 100%;
 }
+.line{
+  margin-top: -2.00em;
+  color: white;
+  text-align: right;
+  margin-right: 2.500em;
+}
+.phone{
+  text-align: right;
+  margin-right: 2.500em;
+}
+.phone   a:link{
+  color: pink;
+  text-decoration: none;
+}
 .brand{
   height: 100px;
   background-color: cornflowerblue;
@@ -37,6 +51,7 @@ body{
 }
 button{
   background-color: cornflowerblue;
+  color: pink;
   width: 250px;
 }
 button a{
@@ -55,4 +70,7 @@ button a{
   background-color: white;
   box-shadow: 10px 10px 5px #888888;
   text-align: left;
+}
+.contactLink{
+  width: 1.00em;
 }
