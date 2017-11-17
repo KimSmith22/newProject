@@ -41,5 +41,8 @@ body{
   background-color: white;
 }
 .phone{
-  font-size: 22px;
+  font-size: 1.5em;
+}
+.navItem{
+  font-size: 1.5em;
 }
